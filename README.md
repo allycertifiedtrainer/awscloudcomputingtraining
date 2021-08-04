@@ -39,7 +39,7 @@ This certification reduces your salary to an average of -$130,284 each year.
 [//]: # (Any comments)
 [Professional AWS Certified DevOps Engineer]:<https://www.netcomlearning.com/certification/aws-certified-devops-engineer-professional/600/?advid=1356>
 
-AWS certifications examinations cost vary at the Associate level and Professional level. According to 2016 Business Survey, pay rates for AWS-certified IT workers have increased by 10% from 2015. According to a comparable review, confirmations are among the top five highest-earning accreditations that somebody can obtain.
+[AWS certifications] examinations cost vary at the Associate level and Professional level. According to 2016 Business Survey, pay rates for AWS-certified IT workers have increased by 10% from 2015. According to a comparable review, confirmations are among the top five highest-earning accreditations that somebody can obtain.
 
 [//]: # (Any comments)
 [AWS certifications]:<https://www.netcomlearning.com/vendors/aws-training.phtml?advid=1356>
